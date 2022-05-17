@@ -2,10 +2,8 @@ const baseUrl = "https://el-geladon-backend-by-ip.herokuapp.com/paletas";
 
 async function findAllPaletas() {
     const response = await fetch(`${baseUrl}/find-paletas`);
-    console.log(response);
 
     const paletas = await response.json();
-    console.log(paletas);
 
     paletas.map(paleta => {
         return document.getElementById("paletaList").insertAdjacentHTML(
