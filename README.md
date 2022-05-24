@@ -2,7 +2,7 @@
 
 # Projeto El Geladon
 
-Neste projeto eu o site de uma paleteria mexicana chamada "El Geladon". 
+Neste projeto eu desenvolvi o site de uma paleteria mexicana chamada "El Geladon". 
 
 Nele consumi uma API pública, onde já estavam cadastradas algumas paletas. 
 
