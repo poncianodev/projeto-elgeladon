@@ -1,4 +1,4 @@
-<img src="https://sorvetesmegbom.com.br/wp-content/uploads/2021/01/paleta.png"> 
+<img src="https://sorvetesmegbom.com.br/wp-content/uploads/2021/01/paleta.png" width="300px">
 
 # Projeto El Geladon
 
